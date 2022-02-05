@@ -1,11 +1,12 @@
-const categoriesNewArrivals = [
+const categoryNewArrivals = [
   {
     name: "Dear collection",
     products: [
       {
-        id: "1971cd66-2256-47b1-a6ce-5d4fc8a86a43",
-        createdAt: 1643806136306,
-        updatedAt: 1643806136306,
+        id: "fe6720a0-dc75-45c6-9c22-acbdc5e37084",
+        createdAt: 1643866528374,
+        updatedAt: 1643866528374,
+        isLike: false,
         name: "Dear flat backpack",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP02017MIA01U98_baja_a_540x.jpg?v=1642183490",
@@ -30,9 +31,10 @@ const categoriesNewArrivals = [
         style: "de mano",
       },
       {
-        id: "698eaae5-9362-429f-aa8d-2088bd3538ca",
-        createdAt: 1643806136307,
-        updatedAt: 1643806136307,
+        id: "283f5be1-d3f5-4d0c-8fa2-c8b8f89987de",
+        createdAt: 1643866528374,
+        updatedAt: 1643866528374,
+        isLike: false,
         name: "Dear flat backpack",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP02017MIB98V98_baja_a_360x.jpg?v=1642183506",
@@ -57,9 +59,10 @@ const categoriesNewArrivals = [
         style: "de mano",
       },
       {
-        id: "0447bc4b-4c4b-45bf-980a-fc1b2be6407b",
-        createdAt: 1643806136307,
-        updatedAt: 1643806136307,
+        id: "47febc74-7d54-432c-8ae2-d42fc5c81501",
+        createdAt: 1643866528374,
+        updatedAt: 1643866528374,
+        isLike: false,
         name: "Dear flat backpack",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP02017MIC03U98_baja_a_360x.jpg?v=1642183528",
@@ -84,9 +87,10 @@ const categoriesNewArrivals = [
         style: "de mano",
       },
       {
-        id: "cda31093-f801-4917-88a4-f88907e5f34e",
-        createdAt: 1643806136307,
-        updatedAt: 1643806136307,
+        id: "de2924b4-e9ca-4c61-89fb-bd92e59b3b16",
+        createdAt: 1643866528375,
+        updatedAt: 1643866528375,
+        isLike: false,
         name: "Dear flat backpack",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP02017MIC66K98_baja_a_360x.jpg?v=1642183544",
@@ -111,9 +115,10 @@ const categoriesNewArrivals = [
         style: "de mano",
       },
       {
-        id: "0bc4e292-71c8-451a-80f3-a129a0c0d553",
-        createdAt: 1643806136307,
-        updatedAt: 1643806136307,
+        id: "67ac59b4-e6d1-4ffc-8ed2-3a2d5ddfb98f",
+        createdAt: 1643866528375,
+        updatedAt: 1643866528375,
+        isLike: false,
         name: "Dear flat backpack",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP02017MID02J98_baja_a_360x.jpg?v=1642183577",
@@ -138,9 +143,10 @@ const categoriesNewArrivals = [
         style: "de mano",
       },
       {
-        id: "cd8006fc-9757-4ef8-ba23-5ed7544b14ec",
-        createdAt: 1643806136307,
-        updatedAt: 1643806136307,
+        id: "ff837973-5637-460c-8e2c-f8aa981919e3",
+        createdAt: 1643866528375,
+        updatedAt: 1643866528375,
+        isLike: false,
         name: "Dear flat backpack",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP02017MID01Q99_baja_a_360x.jpg?v=1642183560",
@@ -165,9 +171,10 @@ const categoriesNewArrivals = [
         style: "de mano",
       },
       {
-        id: "722b5c27-9009-449c-afb4-f8a3db08118c",
-        createdAt: 1643806136308,
-        updatedAt: 1643806136308,
+        id: "ed86e57e-a9f0-4d7f-a341-35529d349f28",
+        createdAt: 1643866528375,
+        updatedAt: 1643866528375,
+        isLike: false,
         name: "Dear wallet",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12013TJA01094_baja_a_360x.jpg?v=1604693894",
@@ -192,9 +199,10 @@ const categoriesNewArrivals = [
         style: "al hombro",
       },
       {
-        id: "a4f52970-ee9c-4fbd-b214-f0401c8d37d4",
-        createdAt: 1643806136308,
-        updatedAt: 1643806136308,
+        id: "072d35f5-c9df-4c63-b61e-aea98cffb13b",
+        createdAt: 1643866528375,
+        updatedAt: 1643866528375,
+        isLike: false,
         name: "Dear wallet",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12013TJA10094_baja_a_360x.jpg?v=1604693875",
@@ -219,9 +227,10 @@ const categoriesNewArrivals = [
         style: "al hombro",
       },
       {
-        id: "112c8114-3d70-464f-99ae-bd8df0e1710e",
-        createdAt: 1643806136308,
-        updatedAt: 1643806136308,
+        id: "e7eeb540-799a-448f-96db-101e979a8e0f",
+        createdAt: 1643866528375,
+        updatedAt: 1643866528375,
+        isLike: false,
         name: "Dear wallet",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12013TJD29094_baja_a_360x.jpg?v=1604693855",
@@ -246,9 +255,10 @@ const categoriesNewArrivals = [
         style: "al hombro",
       },
       {
-        id: "e939df04-c05c-4d94-a8d7-40016a99d1ec",
-        createdAt: 1643806136308,
-        updatedAt: 1643806136308,
+        id: "8c12df0b-8730-4e74-96a6-a465cd67508f",
+        createdAt: 1643866528375,
+        updatedAt: 1643866528375,
+        isLike: false,
         name: "Dear wallet",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12013TJB32T94_baja_a_360x.jpg?v=1642183875",
@@ -273,9 +283,10 @@ const categoriesNewArrivals = [
         style: "al hombro",
       },
       {
-        id: "469d84e7-01ef-4cec-a521-283ef2eaa166",
-        createdAt: 1643806136308,
-        updatedAt: 1643806136308,
+        id: "49224a85-9a05-4bf3-9105-8cd686c9cf9c",
+        createdAt: 1643866528375,
+        updatedAt: 1643866528375,
+        isLike: false,
         name: "Dear wallet",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12013TJC66K94_baja_a_360x.jpg?v=1642183905",
@@ -300,9 +311,10 @@ const categoriesNewArrivals = [
         style: "al hombro",
       },
       {
-        id: "f19662c7-9c76-4cc5-80d0-68e6e9f90d47",
-        createdAt: 1643806136309,
-        updatedAt: 1643806136309,
+        id: "2488119a-82c6-4788-afde-7e43d9f80cc1",
+        createdAt: 1643866528375,
+        updatedAt: 1643866528375,
+        isLike: false,
         name: "Dear wallet",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12013TJC03J94_baja_a_360x.jpg?v=1642183890",
@@ -327,9 +339,10 @@ const categoriesNewArrivals = [
         style: "al hombro",
       },
       {
-        id: "a201dbce-b15c-4f6d-a01f-f65000ea5d85",
-        createdAt: 1643806136309,
-        updatedAt: 1643806136309,
+        id: "c5b71e17-40f3-4193-bf52-389a5ae78335",
+        createdAt: 1643866528375,
+        updatedAt: 1643866528375,
+        isLike: false,
         name: "Dear midi pouch",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12064MRA01N98_baja_a_360x.jpg?v=1642183998",
@@ -354,9 +367,10 @@ const categoriesNewArrivals = [
         style: "necessaires",
       },
       {
-        id: "2c862321-3f4b-4036-a787-ece71acf8dbc",
-        createdAt: 1643806136309,
-        updatedAt: 1643806136309,
+        id: "70c38bda-e495-4d4f-a8d9-008353d5004d",
+        createdAt: 1643866528375,
+        updatedAt: 1643866528375,
+        isLike: false,
         name: "Dear midi pouch",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12064MRB32099_baja_a_360x.jpg?v=1642184025",
@@ -381,9 +395,10 @@ const categoriesNewArrivals = [
         style: "necessaires",
       },
       {
-        id: "bd9c952c-b426-4393-8c0a-b842b3d82503",
-        createdAt: 1643806136309,
-        updatedAt: 1643806136309,
+        id: "8ed13003-425d-41d9-8afa-0718d76367c4",
+        createdAt: 1643866528375,
+        updatedAt: 1643866528375,
+        isLike: false,
         name: "Dear midi pouch",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12064MRB98099_baja_a_360x.jpg?v=1642184038",
@@ -408,9 +423,10 @@ const categoriesNewArrivals = [
         style: "necessaires",
       },
       {
-        id: "2b778d49-cead-4aab-92e9-a0b2bf8d9ed8",
-        createdAt: 1643806136309,
-        updatedAt: 1643806136309,
+        id: "685b057c-822f-48c1-95b1-b1f803782305",
+        createdAt: 1643866528375,
+        updatedAt: 1643866528375,
+        isLike: false,
         name: "Dear midi pouch",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12064MRC17N98_baja_a_360x.jpg?v=1642184052",
@@ -435,9 +451,10 @@ const categoriesNewArrivals = [
         style: "necessaires",
       },
       {
-        id: "d6065e66-f4bb-4d1a-8f2e-c19292272cf2",
-        createdAt: 1643806136309,
-        updatedAt: 1643806136309,
+        id: "86e34e01-3650-4b1b-bf56-913648cce153",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Dear midi pouch",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12064MRC66099_baja_a_360x.jpg?v=1642184067",
@@ -462,9 +479,10 @@ const categoriesNewArrivals = [
         style: "necessaires",
       },
       {
-        id: "9ad098c3-29ed-4b7f-aad0-09b5cf0e4b92",
-        createdAt: 1643806136309,
-        updatedAt: 1643806136309,
+        id: "24691017-bde0-4af1-a061-ac39220902cc",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Dear midi pouch",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12064MRA10099_baja_a_360x.jpg?v=1642184011",
@@ -489,9 +507,10 @@ const categoriesNewArrivals = [
         style: "necessaires",
       },
       {
-        id: "691056d4-6bd0-498b-b2dd-8b49fc12a483",
-        createdAt: 1643806136310,
-        updatedAt: 1643806136310,
+        id: "f1075c51-cb3f-4c85-ad29-b49d4e061989",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Dear mini clutch",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12062MRA06N98_baja_a_360x.jpg?v=1642183921",
@@ -516,9 +535,10 @@ const categoriesNewArrivals = [
         style: "sobres",
       },
       {
-        id: "89a32466-efc8-453b-8e4e-f8191f64cd64",
-        createdAt: 1643806136312,
-        updatedAt: 1643806136312,
+        id: "668ae18f-2bec-4f54-a7b9-665a929a9348",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Dear mini clutch",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12062MRA15N98_baja_a_360x.jpg?v=1642183938",
@@ -543,9 +563,10 @@ const categoriesNewArrivals = [
         style: "sobres",
       },
       {
-        id: "65b90845-437c-422b-8f69-157d033395da",
-        createdAt: 1643806136313,
-        updatedAt: 1643806136313,
+        id: "7d05046d-d73e-4f08-9b63-95df4aa8a60b",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Dear mini clutch",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP12062MRD28N98_baja_a_360x.jpg?v=1642183956",
@@ -570,9 +591,10 @@ const categoriesNewArrivals = [
         style: "sobres",
       },
       {
-        id: "a6511841-9175-4ff6-9e8d-d70c86b11fa0",
-        createdAt: 1643806136313,
-        updatedAt: 1643806136313,
+        id: "66e18931-cc9b-47ce-a6f7-278b0236a923",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Dear backpack",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00723MIA01N98_baja_a_360x.jpg?v=1588687439",
@@ -597,9 +619,10 @@ const categoriesNewArrivals = [
         style: "mochilas",
       },
       {
-        id: "bd3b9ff4-e0fd-40d6-a75d-2abdc4ce9b1b",
-        createdAt: 1643806136314,
-        updatedAt: 1643806136314,
+        id: "01c924b6-0a4a-4edc-832e-ac15768331cf",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Dear backpack",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00723MIC34N98_baja_a_360x.jpg?v=1588687505",
@@ -624,9 +647,10 @@ const categoriesNewArrivals = [
         style: "mochilas",
       },
       {
-        id: "cb93c87e-ccda-4c58-a060-0f854eb045cc",
-        createdAt: 1643806136314,
-        updatedAt: 1643806136314,
+        id: "f9c25e23-5336-4e57-8943-4e0538431d00",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Dear backpack",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00723MID02N98_baja_a_360x.jpg?v=1614708082",
@@ -651,9 +675,10 @@ const categoriesNewArrivals = [
         style: "mochilas",
       },
       {
-        id: "5420361c-7078-48a6-88ea-9027992797d9",
-        createdAt: 1643806136314,
-        updatedAt: 1643806136314,
+        id: "6e93369f-b066-45a8-a812-75af5dda670b",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Dear crossbody bag",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00950MIA01N98_baja_a_a507eefa-28cf-4f23-99cc-9259022e8907_360x.jpg?v=1624384468",
@@ -678,9 +703,10 @@ const categoriesNewArrivals = [
         style: "cruzadas",
       },
       {
-        id: "07a656aa-c1ed-424d-892f-4a238d87eb73",
-        createdAt: 1643806136314,
-        updatedAt: 1643806136314,
+        id: "43c1a5f3-619b-4ca2-8e3b-8f324d46bedc",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Dear crossbody bag",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00950MIC34N98_baja_a_360x.jpg?v=1589208766",
@@ -705,9 +731,10 @@ const categoriesNewArrivals = [
         style: "cruzadas",
       },
       {
-        id: "71100dd8-6097-483b-8057-a904dfc365d7",
-        createdAt: 1643806136314,
-        updatedAt: 1643806136314,
+        id: "391be8d0-af43-4c02-be3f-2cdd0a55a341",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Dear crossbody bag",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00950MID02N98_baja_a_360x.jpg?v=1633381774",
@@ -737,9 +764,10 @@ const categoriesNewArrivals = [
     name: "Enma",
     products: [
       {
-        id: "f239c9ae-85f0-4fdd-9cd2-2bada672c5e8",
-        createdAt: 1643806136314,
-        updatedAt: 1643806136314,
+        id: "2831b5bc-72d8-44cd-8c34-af7553cd0bbe",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Enma",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00730PGD08091_BAJA_A_360x.jpg?v=1642521812",
@@ -764,9 +792,10 @@ const categoriesNewArrivals = [
         style: "cruzadas",
       },
       {
-        id: "2e24c903-5a52-4784-ba89-fe741a35a8f2",
-        createdAt: 1643806136314,
-        updatedAt: 1643806136314,
+        id: "c3ca0a8e-967b-44e3-9618-a8723f49490f",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Enma",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00730PGA06089_BAJA_A_3119d82f-9110-41e0-8479-38376333804c_360x.jpg?v=1642173143",
@@ -791,9 +820,10 @@ const categoriesNewArrivals = [
         style: "cruzadas",
       },
       {
-        id: "f9d8fd92-7e00-492a-9125-02ab2d016024",
-        createdAt: 1643806136315,
-        updatedAt: 1643806136315,
+        id: "de1258ce-28e4-497f-9a77-2f8ceda1df4d",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Enma",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00730PGA10090_BAJA_A_935ec854-0a6b-465e-a89c-dd9081e66c95_360x.jpg?v=1642173192",
@@ -818,9 +848,10 @@ const categoriesNewArrivals = [
         style: "cruzadas",
       },
       {
-        id: "9f79ccec-c54b-4fc8-b3f9-f914eb90cea0",
-        createdAt: 1643806136315,
-        updatedAt: 1643806136315,
+        id: "6d9caba0-ef6c-4a93-8ba8-ca088ff7aebc",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Enma",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00730MPC34092_baja_A_1800x1800_3a81b110-31a1-44bc-93ee-b3f32e208b1d_360x.jpg?v=1642025415",
@@ -845,9 +876,10 @@ const categoriesNewArrivals = [
         style: "cruzadas",
       },
       {
-        id: "a17a6563-93b2-4aff-81ab-9a8a9ceadc48",
-        createdAt: 1643806136315,
-        updatedAt: 1643806136315,
+        id: "cef6db21-3ac6-47f8-8cf2-7c13d98d8fd5",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Enma",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00730MPC03098_baja_a__1800x1800_17427ebc-7daa-4f9e-89cd-dab22f316ae8_360x.jpg?v=1642025620",
@@ -877,9 +909,10 @@ const categoriesNewArrivals = [
     name: "Simona",
     products: [
       {
-        id: "81004481-120a-4ddd-abff-e19f7a8b5227",
-        createdAt: 1643806136315,
-        updatedAt: 1643806136315,
+        id: "08dcf871-5aa1-4382-a565-4332c53e0944",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Simona",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00703PYA10199_BAJA_A_9f47f478-4099-4124-82ac-1aeb01394554_360x.jpg?v=1642533386",
@@ -904,9 +937,10 @@ const categoriesNewArrivals = [
         style: "cruzadas",
       },
       {
-        id: "8f567717-0d50-4900-a67d-2194be4bf88a",
-        createdAt: 1643806136315,
-        updatedAt: 1643806136315,
+        id: "c73e8f28-4806-47de-9fe3-76482adfe0cf",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Simona",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00703PYC03N98_BAJA_A_05641cc2-b4e2-46b1-8e1f-89d0553bc087_360x.jpg?v=1642523001",
@@ -931,9 +965,10 @@ const categoriesNewArrivals = [
         style: "cruzadas",
       },
       {
-        id: "9021bbbd-99b2-462c-a084-0ce78fc22590",
-        createdAt: 1643806136315,
-        updatedAt: 1643806136315,
+        id: "ca455b2b-1ff2-4359-8134-d64e1f19a99b",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Simona",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00703PYC34N98_BAJA_A_6b655a02-25a8-44d5-897d-12faf9b121a9_360x.jpg?v=1642522859",
@@ -958,9 +993,10 @@ const categoriesNewArrivals = [
         style: "cruzadas",
       },
       {
-        id: "67d61411-f67e-49b8-85d9-0c18a5603b5e",
-        createdAt: 1643806136315,
-        updatedAt: 1643806136315,
+        id: "e8c59a7b-fe8e-40de-b532-d40e22746f3c",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Simona",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00703PYD07199_BAJA_A_5bd26ef5-2047-4594-a13e-b02ccad1c326_360x.jpg?v=1642083046",
@@ -985,9 +1021,10 @@ const categoriesNewArrivals = [
         style: "cruzadas",
       },
       {
-        id: "92cafc63-cd46-4d16-b54e-05fd8664f681",
-        createdAt: 1643806136316,
-        updatedAt: 1643806136316,
+        id: "132d41d9-51e9-46e5-98b9-911145a09ecb",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Simona",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00703PYC66K99_BAJA_A_5eabbac6-befa-42d0-913b-676099501e1a_360x.jpg?v=1642083014",
@@ -1012,9 +1049,10 @@ const categoriesNewArrivals = [
         style: "cruzadas",
       },
       {
-        id: "834a686c-dce7-4a5c-9f9a-7ea1479540f6",
-        createdAt: 1643806136316,
-        updatedAt: 1643806136316,
+        id: "2ef0fce4-99e3-4c35-bdfa-6212ee8ed502",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Simona",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00703PYA01N99_BAJA_A_7fd9d10c-4f2c-44a4-ba87-9ddb5695107c_360x.jpg?v=1642082787",
@@ -1039,9 +1077,10 @@ const categoriesNewArrivals = [
         style: "cruzadas",
       },
       {
-        id: "b4c632ac-690c-44b8-bfd5-eacfead2b38a",
-        createdAt: 1643806136316,
-        updatedAt: 1643806136316,
+        id: "4db7c667-dded-4f3c-a07b-75da27c360ef",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Simona",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00703PYA01O98_BAJA_A_a92ddee8-30ce-49c2-b620-6cc4f92012ec_360x.jpg?v=1642082819",
@@ -1066,9 +1105,10 @@ const categoriesNewArrivals = [
         style: "cruzadas",
       },
       {
-        id: "66cc4a76-a823-4412-8a48-1c5b5c798321",
-        createdAt: 1643806136316,
-        updatedAt: 1643806136316,
+        id: "adae6f04-f9e4-44c7-a859-9526f26b6fc5",
+        createdAt: 1643866528376,
+        updatedAt: 1643866528376,
+        isLike: false,
         name: "Simona",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00703PYB32O98_BAJA_A_6f23cd5c-d281-4159-9505-50061606dc1e_360x.jpg?v=1642082894",
@@ -1093,9 +1133,10 @@ const categoriesNewArrivals = [
         style: "cruzadas",
       },
       {
-        id: "24ed6bec-7f8b-434b-bad7-a10f1cde99f4",
-        createdAt: 1643806136317,
-        updatedAt: 1643806136317,
+        id: "b224b7b6-ccbc-44b6-bcf8-ef5ab3808ce8",
+        createdAt: 1643866528377,
+        updatedAt: 1643866528377,
+        isLike: false,
         name: "Simona",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00703PYC03O98_BAJA_A_fe815d8f-cfe6-4852-9950-2a4f4900fcf9_360x.jpg?v=1642082956",
@@ -1125,9 +1166,10 @@ const categoriesNewArrivals = [
     name: "The monogram series",
     products: [
       {
-        id: "7b2ae912-cf1a-4b03-9118-7d9a11a10e8f",
-        createdAt: 1643806136317,
-        updatedAt: 1643806136317,
+        id: "87bfcf4d-0496-4242-9ade-574793d3c742",
+        createdAt: 1643866528377,
+        updatedAt: 1643866528377,
+        isLike: false,
         name: "Monogram shopping bag",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00724PCA01099_baja_a_360x.jpg?v=1615558044",
@@ -1152,9 +1194,10 @@ const categoriesNewArrivals = [
         style: "al hombro",
       },
       {
-        id: "112ed17d-09ea-4da9-868e-cf5e3755dfdb",
-        createdAt: 1643806136317,
-        updatedAt: 1643806136317,
+        id: "159b7016-d40a-4301-b7b5-6687d4970d00",
+        createdAt: 1643866528377,
+        updatedAt: 1643866528377,
+        isLike: false,
         name: "Monogram tote bag",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP01975MNC03N99_baja_a_360x.jpg?v=1614620466",
@@ -1179,9 +1222,10 @@ const categoriesNewArrivals = [
         style: "al hombro",
       },
       {
-        id: "91605324-07e0-4986-b386-8adef571eb28",
-        createdAt: 1643806136317,
-        updatedAt: 1643806136317,
+        id: "ff4e72ef-9f7b-4a9e-8fee-35bb8836fc59",
+        createdAt: 1643866528377,
+        updatedAt: 1643866528377,
+        isLike: false,
         name: "Monogram shopping bag",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP00724PCC34N99_BAJA_a_c4f5d282-8347-46b0-a224-b3840cd71512_360x.jpg?v=1643379122",
@@ -1206,9 +1250,10 @@ const categoriesNewArrivals = [
         style: "al hombro",
       },
       {
-        id: "4130a49f-6244-40dd-aed2-72c710f8e095",
-        createdAt: 1643806136317,
-        updatedAt: 1643806136317,
+        id: "d32b3576-b5c2-4647-a735-fb79471e1318",
+        createdAt: 1643866528377,
+        updatedAt: 1643866528377,
+        isLike: false,
         name: "Monogram backpack",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP02032MNA01N99_baja_a_c4b6c9aa-189a-473d-9239-cc96b6b7a268_360x.jpg?v=1643378946",
@@ -1233,9 +1278,10 @@ const categoriesNewArrivals = [
         style: "mochilas",
       },
       {
-        id: "8411381e-4230-4a6d-be44-b8ca80272546",
-        createdAt: 1643806136317,
-        updatedAt: 1643806136317,
+        id: "b0abd655-7887-446f-8fc5-948dc9c1c990",
+        createdAt: 1643866528377,
+        updatedAt: 1643866528377,
+        isLike: false,
         name: "Monogram backpack",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP02032MNC03N99_baja_a_68b27fcc-d4dc-4c15-ba13-d6a559df041b_360x.jpg?v=1643379324",
@@ -1260,9 +1306,10 @@ const categoriesNewArrivals = [
         style: "mochilas",
       },
       {
-        id: "e13ed4de-5b65-46cf-9e84-065593b63000",
-        createdAt: 1643806136317,
-        updatedAt: 1643806136317,
+        id: "70ad3195-fa8c-4ff5-b434-34f628eae646",
+        createdAt: 1643866528377,
+        updatedAt: 1643866528377,
+        isLike: false,
         name: "Monogram backpack",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP02032MNC34N99_baja_a_360x.jpg?v=1617630345",
@@ -1287,9 +1334,10 @@ const categoriesNewArrivals = [
         style: "mochilas",
       },
       {
-        id: "8914c44b-eea7-48f8-8737-f95fa702cf7a",
-        createdAt: 1643806136318,
-        updatedAt: 1643806136318,
+        id: "75cd84ed-3931-4d24-8a85-57f7d4bc98d9",
+        createdAt: 1643866528377,
+        updatedAt: 1643866528377,
+        isLike: false,
         name: "Billetera monogram",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP10952PCA01099_baja_a_b66678e9-a7e6-42e6-90c4-f301d36ee54e_360x.jpg?v=1615218400",
@@ -1314,9 +1362,10 @@ const categoriesNewArrivals = [
         style: "billeteras",
       },
       {
-        id: "a97e67da-047a-409f-8a8f-76f41bd316fd",
-        createdAt: 1643806136318,
-        updatedAt: 1643806136318,
+        id: "e5507564-c027-4547-9c26-07f61c097b53",
+        createdAt: 1643866528377,
+        updatedAt: 1643866528377,
+        isLike: false,
         name: "Billetera monogram",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP10952PCC03N99_baja_a_360x.jpg?v=1614715074",
@@ -1341,9 +1390,10 @@ const categoriesNewArrivals = [
         style: "billeteras",
       },
       {
-        id: "260feedf-637c-42de-9503-c406d683853e",
-        createdAt: 1643806136318,
-        updatedAt: 1643806136318,
+        id: "bab60b23-cab4-465f-8a82-6de36bf8eeba",
+        createdAt: 1643866528377,
+        updatedAt: 1643866528377,
+        isLike: false,
         name: "The monogram bff clutch",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP11048MNA10N99_baja_a_360x.jpg?v=1639488820",
@@ -1368,9 +1418,10 @@ const categoriesNewArrivals = [
         style: "sobres",
       },
       {
-        id: "14198a63-c5c4-4c89-90c4-42d3b1376b9c",
-        createdAt: 1643806136318,
-        updatedAt: 1643806136318,
+        id: "a776cb2b-9568-473c-8487-e5a1e553ee71",
+        createdAt: 1643866528377,
+        updatedAt: 1643866528377,
+        isLike: false,
         name: "The monogram bff clutch",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP11048MNB32N99_baja_a_360x.jpg?v=1639488851",
@@ -1395,9 +1446,10 @@ const categoriesNewArrivals = [
         style: "sobres",
       },
       {
-        id: "f730e0b9-0944-4d05-88a0-024ba02b2b30",
-        createdAt: 1643806136318,
-        updatedAt: 1643806136318,
+        id: "a416f8d6-e4bd-491c-bb29-a0ee719e1981",
+        createdAt: 1643866528377,
+        updatedAt: 1643866528377,
+        isLike: false,
         name: "The monogram bff clutch",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP11048MNC66N99_baja_a_360x.jpg?v=1639488907",
@@ -1422,9 +1474,10 @@ const categoriesNewArrivals = [
         style: "sobres",
       },
       {
-        id: "7754f383-0bc4-4004-a5cf-c14f19cce140",
-        createdAt: 1643806136318,
-        updatedAt: 1643806136318,
+        id: "2755b1b4-3ee7-4b21-a7db-bfd7e951c4b7",
+        createdAt: 1643866528377,
+        updatedAt: 1643866528377,
+        isLike: false,
         name: "The monogram bff clutch",
         imgUrl:
           "https://cdn.shopify.com/s/files/1/0208/1956/products/CP11048MNC32U99_baja_a_360x.jpg?v=1639488887",
@@ -1452,4 +1505,4 @@ const categoriesNewArrivals = [
   },
 ]
 
-module.exports = categoriesNewArrivals
+module.exports = categoryNewArrivals
