@@ -8,6 +8,7 @@ const accessoriesProduct = require('./products/productsAccessories')
 const accessoriesCategory = require('./categories/categoryAccessories')
 const clothingProduct = require('./products/productsClothing')
 const clothingCategory = require('./categories/categoryClothing')
+const sneakerProduct = require('./products/productsSneaker.js')
 
 const generateProducts = (products) => {
   const mapProducts = products.map((product) => {
@@ -42,6 +43,7 @@ const generateCategories = (categories) => {
   const productsBags = generateProducts(bagsProduct)
   const productsAccessories = generateProducts(accessoriesProduct)
   const productsClothing = generateProducts(clothingProduct)
+  const productsSneaker = generateProducts(sneakerProduct)
 
   // generate data categories
   const categoriesNewArrivals = generateCategories(newArrivalsCategory)
@@ -59,6 +61,7 @@ const generateCategories = (categories) => {
     productsBags,
     productsAccessories,
     productsClothing,
+    productsSneaker,
     profile: {
       name: 'Althetis Ngo',
       age: 25,
