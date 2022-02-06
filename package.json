@@ -14,7 +14,7 @@
   "dependencies": {
     "casual": "^1.6.2",
     "json-server": "^0.17.0",
-    "query-string": "^7.1.0"
+    "query-string": "^7.1.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
