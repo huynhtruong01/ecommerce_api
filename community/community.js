@@ -22,13 +22,15 @@ const community = [
   },
   {
     name: '#art&play',
-    logoImg: '',
+    logoImg:
+      'https://cdn.shopify.com/s/files/1/0208/1956/t/46/assets/mega-menu-89051-b0001-pagesimart-and-play-logo-menu-218971334_320x.jpg?v=1641480960',
     backgroundImg:
       'https://i.shgcdn.com/7e806a17-6562-4d14-af1c-d3d39ca77ef2/-/format/auto/-/preview/3000x3000/-/quality/lighter/',
   },
   {
     name: '#thepinkbox',
-    logoImg: '',
+    logoImg:
+      'https://cdn.shopify.com/s/files/1/0208/1956/t/46/assets/mega-menu-89051-b0001-pagesimthepinkbox-logo-menu-1198471842_320x.jpg?v=1641480964',
     backgroundImg:
       'https://i.shgcdn.com/ae803fea-78e3-47df-a51e-fee261aae0a4/-/format/auto/-/preview/3000x3000/-/quality/lighter/',
   },
