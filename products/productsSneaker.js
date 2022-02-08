@@ -6,7 +6,7 @@ const productsSneaker = [
     imgHover:
       'https://cdn.shopify.com/s/files/1/0208/1956/products/0020526GNA02J_BAJA_b_360x.jpg?v=1640184990',
     originalPrice: 42990,
-    salePrice: 429990 - Math.ceil((42990 * 19) / 100),
+    salePrice: 42990 - Math.ceil((42990 * 19) / 100),
     isFreeShip: false,
     isPromotion: true,
     promotionPercent: 19,
@@ -31,7 +31,7 @@ const productsSneaker = [
     imgHover:
       'https://cdn.shopify.com/s/files/1/0208/1956/products/0020526GNA02Y36_baja_b_360x.jpg?v=1640184961',
     originalPrice: 42990,
-    salePrice: 429990 - Math.ceil((42990 * 19) / 100),
+    salePrice: 42990 - Math.ceil((42990 * 19) / 100),
     isFreeShip: false,
     isPromotion: true,
     promotionPercent: 19,
@@ -56,7 +56,7 @@ const productsSneaker = [
     imgHover:
       'https://cdn.shopify.com/s/files/1/0208/1956/products/0020526GNA02W_BAJA_b_360x.jpg?v=1640185040',
     originalPrice: 42990,
-    salePrice: 429990 - Math.ceil((42990 * 19) / 100),
+    salePrice: 42990 - Math.ceil((42990 * 19) / 100),
     isFreeShip: false,
     isPromotion: true,
     promotionPercent: 19,
@@ -81,7 +81,7 @@ const productsSneaker = [
     imgHover:
       'https://cdn.shopify.com/s/files/1/0208/1956/products/0020526GRA06Z_BAJA_b_1800x1800_c2e6e596-b3db-472b-9379-d5d1dd81c639_360x.jpg?v=1642027148',
     originalPrice: 42990,
-    salePrice: 429990 - Math.ceil((42990 * 19) / 100),
+    salePrice: 42990 - Math.ceil((42990 * 19) / 100),
     isFreeShip: false,
     isPromotion: true,
     promotionPercent: 19,
@@ -106,7 +106,7 @@ const productsSneaker = [
     imgHover:
       'https://cdn.shopify.com/s/files/1/0208/1956/products/0020526GRB011_baja_b_360x.jpg?v=1640628766',
     originalPrice: 42990,
-    salePrice: 429990 - Math.ceil((42990 * 19) / 100),
+    salePrice: 42990 - Math.ceil((42990 * 19) / 100),
     isFreeShip: false,
     isPromotion: true,
     promotionPercent: 19,
@@ -131,7 +131,7 @@ const productsSneaker = [
     imgHover:
       'https://cdn.shopify.com/s/files/1/0208/1956/products/0020526GRD021_baja_b_360x.jpg?v=1640628721',
     originalPrice: 42990,
-    salePrice: 429990 - Math.ceil((42990 * 19) / 100),
+    salePrice: 42990 - Math.ceil((42990 * 19) / 100),
     isFreeShip: false,
     isPromotion: true,
     promotionPercent: 19,
@@ -156,7 +156,7 @@ const productsSneaker = [
     imgHover:
       'https://cdn.shopify.com/s/files/1/0208/1956/products/0020526GNC341_baja_b_360x.jpg?v=1632168387',
     originalPrice: 42990,
-    salePrice: 429990 - Math.ceil((42990 * 19) / 100),
+    salePrice: 42990 - Math.ceil((42990 * 19) / 100),
     isFreeShip: false,
     isPromotion: true,
     promotionPercent: 19,
@@ -181,7 +181,7 @@ const productsSneaker = [
     imgHover:
       'https://cdn.shopify.com/s/files/1/0208/1956/products/0020526GND02Z35_modelo_360x.jpg?v=1627565998',
     originalPrice: 42990,
-    salePrice: 429990 - Math.ceil((42990 * 19) / 100),
+    salePrice: 42990 - Math.ceil((42990 * 19) / 100),
     isFreeShip: false,
     isPromotion: true,
     promotionPercent: 19,
@@ -206,7 +206,7 @@ const productsSneaker = [
     imgHover:
       'https://cdn.shopify.com/s/files/1/0208/1956/products/0020526LOA05V_baja_c_360x.jpg?v=1627333438',
     originalPrice: 42990,
-    salePrice: 429990 - Math.ceil((42990 * 19) / 100),
+    salePrice: 42990 - Math.ceil((42990 * 19) / 100),
     isFreeShip: false,
     isPromotion: true,
     promotionPercent: 19,
@@ -231,7 +231,7 @@ const productsSneaker = [
     imgHover:
       'https://cdn.shopify.com/s/files/1/0208/1956/products/0020526LOA05V_baja_c_360x.jpg?v=1627333438',
     originalPrice: 42990,
-    salePrice: 429990 - Math.ceil((42990 * 19) / 100),
+    salePrice: 42990 - Math.ceil((42990 * 19) / 100),
     isFreeShip: false,
     isPromotion: true,
     promotionPercent: 19,
