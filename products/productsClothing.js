@@ -625,6 +625,75 @@ const productsClothing = [
     size: ['small', 'medium', 'large', 'extra large'],
   },
   {
+    name: 'Striped dress',
+    imgUrl:
+      'https://cdn.shopify.com/s/files/1/0208/1956/products/VS71963AGA010__flatlay_baja_a_360x.jpg?v=1606826763',
+    imgHover:
+      'https://cdn.shopify.com/s/files/1/0208/1956/products/VS71963AGA010__flatlay_baja_b_360x.jpg?v=1606826763',
+    originalPrice: 11990,
+    salePrice: 11990,
+    isFreeShip: false,
+    isPromotion: false,
+    promotionPercent: 0,
+    desc: 'The dear flat backpack is one of the beautifully designed backpacks with three different colors, and this backpack is very suitable for girls.',
+    numberOpinions: 26,
+    ratingValue: 4.9,
+    thumbnails: [
+      'https://cdn.shopify.com/s/files/1/0208/1956/products/VS71963AGA010__flatlay_baja_a_360x.jpg?v=1606826763',
+      'https://cdn.shopify.com/s/files/1/0208/1956/products/VS71963AGA010__flatlay_baja_b_360x.jpg?v=1606826763',
+    ],
+    collection: 'dresses',
+    color: 'black',
+    style: null,
+    size: ['small', 'medium', 'large'],
+  },
+  {
+    name: 'Striped dress',
+    imgUrl:
+      'https://cdn.shopify.com/s/files/1/0208/1956/products/VS71963AGA040__flatlay_baja_a_360x.jpg?v=1606826731',
+    imgHover:
+      'https://cdn.shopify.com/s/files/1/0208/1956/products/VS71963AGA040__flatlay_baja_b_360x.jpg?v=1606826729',
+    originalPrice: 11990,
+    salePrice: 11990,
+    isFreeShip: false,
+    isPromotion: false,
+    promotionPercent: 0,
+    desc: 'The dear flat backpack is one of the beautifully designed backpacks with three different colors, and this backpack is very suitable for girls.',
+    numberOpinions: 16,
+    ratingValue: 4.9,
+    thumbnails: [
+      'https://cdn.shopify.com/s/files/1/0208/1956/products/VS71963AGA040__flatlay_baja_a_360x.jpg?v=1606826731',
+      'https://cdn.shopify.com/s/files/1/0208/1956/products/VS71963AGA040__flatlay_baja_b_360x.jpg?v=1606826729',
+    ],
+    collection: 'dresses',
+    color: 'red',
+    style: null,
+    size: ['small', 'medium', 'large'],
+  },
+  {
+    name: 'Striped dress',
+    imgUrl:
+      'https://cdn.shopify.com/s/files/1/0208/1956/products/VS71963AGA050__flatlay_baja_a_360x.jpg?v=1606826700',
+    imgHover:
+      'https://cdn.shopify.com/s/files/1/0208/1956/products/VS71963AGA050__flatlay_baja_b_360x.jpg?v=1606826700',
+    originalPrice: 11990,
+    salePrice: 11990,
+    isFreeShip: false,
+    isPromotion: false,
+    promotionPercent: 0,
+    desc: 'The dear flat backpack is one of the beautifully designed backpacks with three different colors, and this backpack is very suitable for girls.',
+    numberOpinions: 34,
+    ratingValue: 4.9,
+    thumbnails: [
+      'https://cdn.shopify.com/s/files/1/0208/1956/products/VS71963AGA050__flatlay_baja_a_360x.jpg?v=1606826700',
+      'https://cdn.shopify.com/s/files/1/0208/1956/products/VS71963AGA050__flatlay_baja_b_360x.jpg?v=1606826700',
+    ],
+    collection: 'dresses',
+    color: 'denim',
+    style: null,
+    size: ['small', 'medium', 'large'],
+  },
+  {
     name: 'Hide and seek T- Shirt',
     imgUrl:
       'https://cdn.shopify.com/s/files/1/0208/1956/products/AXR1968AGA01Y_baja_flatlay_a_17a196c0-e20f-46e7-b775-9cdc7c926911_360x.jpg?v=1603207649',
