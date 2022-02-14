@@ -53,15 +53,15 @@ const generateCategories = (categories) => {
 
   // prepare db object
   const db = {
-    categoriesNewArrivals,
-    categoriesBags,
-    categoriesAccessories,
-    categoriesClothing,
-    productsNewArrivals,
-    productsBags,
-    productsAccessories,
-    productsClothing,
-    productsSneaker,
+    'categories-new-arrivals': categoriesNewArrivals,
+    'categories-bags': categoriesBags,
+    'categories-accessories': categoriesAccessories,
+    'categories-clothing': categoriesClothing,
+    'products-new-arrivals': productsNewArrivals,
+    'products-bags': productsBags,
+    'products-accessories': productsAccessories,
+    'products-clothing': productsClothing,
+    'products-sneaker': productsSneaker,
     profile: {
       name: 'Althetis Ngo',
       age: 25,

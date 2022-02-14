@@ -1,1 +1,1 @@
-GET http://localhost:3000/api/productsClothing?_page=2&_limit=10
+GET http://localhost:3000/api/products-clothing?_page=2&_limit=10
