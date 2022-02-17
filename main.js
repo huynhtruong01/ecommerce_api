@@ -33,7 +33,7 @@ router.render = (req, res) => {
   // If yes, custom output
   const pathName = req._parsedUrl.pathname.slice(1)
   const headers = res.getHeaders()['x-total-count']
-  const totalCountHeader = headers.__wrapped__[pathName].length
+  const totalCountHeader = headers?.__wrapped__[pathName].length
   const params = queryString.parse(req._parsedUrl.query)
 
   if (req.method === 'GET' && totalCountHeader) {
