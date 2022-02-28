@@ -31,18 +31,18 @@ server.use((req, res, next) => {
 router.render = (req, res) => {
   // check GET with pagination
   // If yes, custom output
-  const pathName = req._parsedUrl.pathname.slice(1)
-  const headers = res.getHeaders()['x-total-count']
-  const totalCountHeader = headers?.__wrapped__[pathName].length
+
+  const headers = res.getHeaders()
+  const totalCount = headers['x-total-count']
   const params = queryString.parse(req._parsedUrl.query)
 
-  if (req.method === 'GET' && totalCountHeader) {
+  if (req.method === 'GET' && totalCount) {
     const result = {
       data: res.locals.data,
       pagination: {
         _page: Number.parseInt(params._page) || 1,
         _limit: Number.parseInt(params._limit) || 10,
-        _totalRows: Number.parseInt(totalCountHeader),
+        _totalRows: Number.parseInt(totalCount),
       },
     }
 
@@ -54,6 +54,9 @@ router.render = (req, res) => {
 
 // Use default router
 server.use('/api', router)
-server.listen(process.env.PORT || 3000, () => {
+
+// Start server
+const PORT = process.env.PORT || 3000
+server.listen(PORT, () => {
   console.log('JSON Server is running')
 })
